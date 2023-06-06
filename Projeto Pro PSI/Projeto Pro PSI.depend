@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686066961 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+
