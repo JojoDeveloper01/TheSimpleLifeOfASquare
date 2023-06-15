@@ -1,9 +1,33 @@
 # depslib dependency file v1.0
-1686066961 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\main.c
+1686741496 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"mainMenu.c"
+
+1686842109 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mainmenu.c
+	"menuBox.c"
+	<unistd.h>
+
+1686843546 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\menubox.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
 	<conio.h>
 	<locale.h>
 	<stdbool.h>
+	"gameCurrent.c"
+
+1686843624 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"mainMenu.c"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"gameCurrent.c"
 
