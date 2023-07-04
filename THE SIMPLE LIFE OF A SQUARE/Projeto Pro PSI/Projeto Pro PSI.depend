@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1687437532 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\main.c
+	<stdio.h>
+	"mainMenu.c"
+
+1687386846 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mainmenu.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"box.h"
+	"mainMenu.h"
+
+1686928808 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\menubox.c
+	"menuBox.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"gameCurrent.h"
+
+1686843624 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"mainMenu.c"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"gameCurrent.c"
+
+1687437532 source:c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\main.c
+	<stdio.h>
+	"mainMenu.c"
+
+1687386846 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mainmenu.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"box.h"
+	"mainMenu.h"
+
+1687120654 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\menubox.c
+	"menuBox.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"gameCurrent.h"
+
+1686876649 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+
+1686874635 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\boxheadermaker.h
+
+1687437572 source:c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"gameCurrent.h"
+	"modoDeVida.c"
+
+1686927710 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\menubox.h
+
+1687362842 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.h
+
+1687466830 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"gameCurrent.h"
+
+1686927710 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\menubox.h
+
+1687362842 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\gamecurrent.h
+
+1687360957 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mododevida.h
+
+1687364649 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mododevida.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"modoDeVida.h"
+
+1687364649 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mododevida.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"modoDeVida.h"
+
+1687450401 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\box.h
+
+1687362981 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mainmenu.h
+
+1687360957 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mododevida.h
+
+1687450401 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\box.h
+
+1687362981 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projeto final\projeto pro psi\mainmenu.h
+
+1688215699 source:c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"gameCurrent.h"
+
+1688215172 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\gamecurrent.h
+
+1687437532 source:c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\main.c
+	<stdio.h>
+	"mainMenu.c"
+
+1688114707 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\mainmenu.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"box.h"
+	"mainMenu.h"
+
+1687450401 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\box.h
+
+1687362981 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\mainmenu.h
+
+1688122910 source:c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"gameCurrent.h"
+
+1687362842 c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\gamecurrent.h
+
+1687437532 source:c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\main.c
+	<stdio.h>
+	"mainMenu.c"
+
+1688114707 c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\mainmenu.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"box.h"
+	"mainMenu.h"
+
+1687450401 c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\box.h
+
+1687362981 c:\users\aluno temp\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\projeto pro psi\mainmenu.h
+

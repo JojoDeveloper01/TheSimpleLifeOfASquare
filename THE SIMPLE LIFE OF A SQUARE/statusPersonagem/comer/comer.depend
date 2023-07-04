@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1688156635 source:c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\jogar\build\statuspersonagem\comer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	"box.h"
+
+1688155416 c:\users\jidot\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the_journey_of_a_square\jogar\build\statuspersonagem\comer\box.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+
