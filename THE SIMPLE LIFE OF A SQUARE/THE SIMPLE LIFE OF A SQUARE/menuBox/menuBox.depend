@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1688481987 source:c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\main.c
+	<stdio.h>
+	"mainMenu.c"
+	"box.h"
+
+1688483672 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\mainmenu.c
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	"mainMenu.h"
+	"gameCurrent.c"
+
+1688481987 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\box.h
+
+1688482288 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\mainmenu.h
+
+1688481987 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\gamecurrent.h
+
+1688481987 c:\users\2222116\onedrive - escola digital\escoladigital\worksuwu\psi\10_ano\projetofinal\the simple life of a square\menubox\gamecurrent.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	"gameCurrent.h"
+
