@@ -50,8 +50,8 @@ void namePlayer(int nLine)
                 exit(0);
             }
 
-            // Escrever informações no arquivo
-            fprintf(dadosP,"\n\n|||>>Informação Personagens<<|||\n\n  -> Nome: %s",per.nome);
+            // Escrever informaï¿½ï¿½es no arquivo
+            fprintf(dadosP,"\n\n|||>>Informaï¿½ï¿½o Personagens<<|||\n\n  -> Nome: %s",per.nome);
             // Fechar o arquivo
             fclose(dadosP);
 
@@ -120,7 +120,7 @@ void sexo(int nLine)
                 exit(0);
             }
 
-            // Escrever informações no arquivo
+            // Escrever informaï¿½ï¿½es no arquivo
             fprintf(dadosP,"\n  -> Sexo: Mulher");
             // Fechar o arquivo
             fclose(dadosP);
@@ -170,13 +170,13 @@ void modoVida(int nLine)
                 exit(0);
             }
 
-            // Escrever informações no arquivo
+            // Escrever informaï¿½ï¿½es no arquivo
             fprintf(dadosP,"\n  -> Modo de Vida: Normal");
             // Fechar o arquivo
             fclose(dadosP);
             comeco();
 
-            system("python ..//Jogar//jogar.py");
+            system("python ..//venv//game//main.py");
 
               mainMenuu();
         }
