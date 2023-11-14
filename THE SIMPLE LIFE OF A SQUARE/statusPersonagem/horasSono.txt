@@ -1,3 +1,0 @@
-DORMIR: 
-Horas a dormir:
-8
