@@ -1,5 +1,7 @@
 # THE  SIMPLE LIFE OF A SQUARE 
 
+![Imagem1](https://github.com/JojoDeveloper01/The_Simple_Life_Of_A_Square/assets/107219399/73d01fbf-afd7-452a-8fbc-e85ca740ec07)
+
 ## Contextualização
 
  O jogo "The Simple Life of a Square" é uma experiência de um único jogador, onde o jogador assume o papel de um quadrado em uma vila. Nesta vila, existem sete ruas diferentes que podem ser exploradas. O jogador tem a liberdade de entrar em qualquer casa da vila e realizar atividades básicas necessárias para viver, como comer, dormir e ir ao WC. 
